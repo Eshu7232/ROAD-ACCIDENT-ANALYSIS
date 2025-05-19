@@ -1,4 +1,4 @@
-ROAD-ACCIDENT-ANALYSIs
+ROAD-ACCIDENT-ANALYSIS
 ![Screenshot 2025-05-19 204630](https://github.com/user-attachments/assets/acb9d80a-2a7d-4e97-bcac-dd695902806c)
 
 This project presents a **Power BI dashboard** that analyzes road accident data to uncover patterns and insights on total casualties, types of accidents, vehicle involvement, road types, light conditions, and more.
